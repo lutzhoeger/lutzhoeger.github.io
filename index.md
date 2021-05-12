@@ -9,4 +9,4 @@
 
 [link to a test page](test/index.md)
 
-[link to second test]test2.md
+[link to second test](test2.md)

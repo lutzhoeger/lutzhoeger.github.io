@@ -14,4 +14,5 @@
 
 [link to second test](test2.md)
 
-<iframe src="https://coupons.valassis.eu/instances/demo-gallery-2019-boponly-lutz">
+<script src="https://coupons.valassis.eu/scripts/core/util/init.js"></script>
+<div id="ValassisGallery" style="width: 100%" data-logEvent="logEvent"></div>

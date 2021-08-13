@@ -1,12 +1,4 @@
-<script
-      async
-      id="cbgCompPack"
-      src="https://compliance-pack.carlsberggroup.com/cbgCompPack.js"
-      data-gtm-id="[your GTM container ID]"
-      data-prj-id="[your project ID]"
-      data-market="[market code]"
-      data-verify-age="true">
-</script>
+
 <style>
   .inner {
     max-width: 1024px !important;

@@ -15,4 +15,4 @@
 [link to second test](test2.md)
 
 <script src="https://coupons.valassis.eu/scripts/core/util/init.js"></script>
-<div class="Valassis-Gallery" style="width: 100%" data-logEvent="logEvent"></div>
+<div id="ValassisGallery" style="width: 100%" data-logEvent="logEvent"></div>

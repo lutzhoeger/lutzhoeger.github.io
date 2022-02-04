@@ -18,6 +18,7 @@
 <div 
   id="ValassisGallery" 
   style="width: 100%" 
-  data-lang="en" 
+  data-lang="en"
+  data-logEvent="logEvent"
   data-ucc="0000000000000643984649004">
 </div>

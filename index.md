@@ -14,5 +14,10 @@
 
 [link to second test](test2.md)
 
-<!-- <script src="https://dev.valassis.eu/scripts/core/util/init.js"></script> -->
-<iframe src="https://capiplayground.com/?token=Thulium%7CExample-644193%7C%7C%7C%7CRhlatJpNL4o%253D%7C1643985957100%7Cucc%3D0000000000000643984649004&digest=I5PF%2BhcOFSzchuO%2B5hJLFJGeQN8%3D">
+<script src="https://dev.valassis.eu/scripts/core/util/init.js"></script>
+<div 
+  id="ValassisGallery" 
+  style="width: 100%" 
+  data-lang="en" 
+  data-ucc="0000000000000643984649004">
+</div>

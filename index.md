@@ -21,5 +21,5 @@
   style="width: 100%" 
   data-lang="en"
   data-logEvent="logEvent"
-  data-dpl="https://dev.valassis.eu/instances/Wobrock-Thulium/?token=Thulium%7C%7C%7C%7C%7CRhlatJpNL4o%253D%7C1644249901009%7Cucc%3D0000000000000644249895001&digest=0lhl5m%2BupfYKoAq6E6GBks3aIO0%3D">
+  data-dpl="https://dev.valassis.eu/instances/Wobrock-Thulium/?token=Thulium%7C%7C%7C%7C%7CRhlatJpNL4o%253D%7C1644250130761%7Cucc%3D0000000000000644250127001&digest=5Otrrx%2F1vSl0PfECwx5Qm4bg%2B8Q%3D">
 </div>

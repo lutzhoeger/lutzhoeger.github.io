@@ -15,7 +15,7 @@
 
 [link to second test](test2.md)
 
-<script src="https://dev.valassis.eu/scripts/core/util/init.js"></script>
+<script src="https://platzhalter.capiplayground.com/scripts/core/util/init.js"></script>
 <div 
   id="ValassisGallery" 
   style="width: 100%">

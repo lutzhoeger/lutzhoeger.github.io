@@ -18,5 +18,6 @@
 <script src="https://platzhalter.capiplayground.com/scripts/core/util/init.js"></script>
 <div 
   id="ValassisGallery" 
-  style="width: 100%">
+  style="width: 100%"
+  data-logEvent="logEvent">
 </div>

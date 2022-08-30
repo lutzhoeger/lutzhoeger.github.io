@@ -5,6 +5,9 @@
 </style>
 
 
-<h1>NEXT</h1>
+<h1>gallery starts below this line</h1>
 
-<iframe src="https://dev.valassis.eu/instances/Wobrock-Thulium?synsrc=RhlatJpNL4o%3Dcountry-code=devland" width="1000" height="1000" style="border: 0px none; overflow: hidden; width: 100%; height: 100%;" frameborder="0"></iframe>
+<script src="https://dev.valassis.eu/scripts/core/util/init.js"></script>
+<div id="ValassisGallery" style="width: 100%"></div>
+
+<h1>gallery ends above this line</h1>

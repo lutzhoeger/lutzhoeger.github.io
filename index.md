@@ -15,3 +15,7 @@
 <div id="ValassisGallery" style="width: 100%" data-logEvent="logEvent"></div>
 
 <h1>gallery ends above this line</h1>
+<p>Lorem ipsum...</p>
+<h1>Link to Thulium landing page</h1>
+<a href="https://couponbeard.com/thulium">TThulium Landing Page</a>
+

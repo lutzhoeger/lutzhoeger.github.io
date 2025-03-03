@@ -20,5 +20,6 @@
 
 <h1>gallery ends above this line</h1>
 <p>Lorem ipsum...</p>
+<a href="http://couponbeard.com/thulium">Thulium via HTTP</a>
 
 
